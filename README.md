@@ -6,7 +6,7 @@ The gpt3_jsm project is a web application that showcases the capabilities of the
 
 **Project Screenshot**
 
-[![Project Screenshot](https://github.com/1abcdesign/gpt3-react/blob/main/screenshot.png)](https://1abcdesign.github.io/gpt3-react/)
+[![Project Screenshot](https://github.com/vadim4web/gpt3-react/blob/main/screenshot.png)](https://vadim4web.github.io/gpt3-react/)
 
 **Technologies Used**
 
